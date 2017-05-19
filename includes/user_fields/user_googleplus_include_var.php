@@ -20,7 +20,7 @@ if (!defined("IN_FUSION")) {
 }
 
 // Version of the user fields api
-$user_field_api_version = "1.01.00";
+$user_field_api_version = "1.02.00";
 $user_field_name = $locale['uf_googleplus'];
 $user_field_desc = $locale['uf_googleplus_desc'];
 $user_field_dbname = "user_googleplus";
